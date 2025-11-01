@@ -1,0 +1,2 @@
+#mentioning all .txt files to be excluded from git
+*.txt
